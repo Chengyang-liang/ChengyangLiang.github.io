@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size = 9>Liang Chengyang's Homepage</font>"
+title: "<font size = 8>Liang Chengyang's Homepage</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,13 +16,18 @@ I am Liang Chengyang, a Ph.D. candidate in Faculty of Innovation Engineering at 
 
 Publications
 ======
-
-
+* **C. Liang and D. Li**, "Joint Source-Channel Noise Adding With Adaptive Denoising for Diffusion-Based Semantic Communications," in IEEE Internet of Things Journal, Jul. 2025, doi: 10.1109/JIOT.2025.3589398.
+* **C. Liang**, et al., "Selection-Based Image Generation for Semantic Communication Systems," in IEEE Communications Letters, Jan. 2024, doi: 10.1109/LCOMM.2023.3339534.
 Education
 ------
+* **2024 - present**
+  Ph.D. student in Faculty of Innovation Engineering, Macau University of Science and Technology
+  Supervisor: [Prof. Li Dong](https://sites.google.com/view/eedongli)
+
+* **2022 - 2024**
+  Master of of science in applied mathematics and data science in Faculty of Innovation Engineering, Macau University of Science and Technology
+
+* **2017 - 2021**
+  Bachelor of engineering in Hefei University of Technology
 
 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
