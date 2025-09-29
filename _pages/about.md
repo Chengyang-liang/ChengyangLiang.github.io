@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size = 10>Liang Chengyang's Homepage</font>"
+title: "<font size = 9>Liang Chengyang's Homepage</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
