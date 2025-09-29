@@ -25,6 +25,7 @@ Education
 ======
 * **2024 - present**
   Ph.D. student in Faculty of Innovation Engineering, Macau University of Science and Technology
+  
   Supervisor: [Prof. Li Dong](https://sites.google.com/view/eedongli)
 
 * **2022 - 2024**
