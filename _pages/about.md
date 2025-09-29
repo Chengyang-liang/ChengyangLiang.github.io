@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size = 8>Liang Chengyang's Homepage</font>"
+title: "<font size = 6>Liang Chengyang's Homepage</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,8 @@ Publications
 ======
 * **C. Liang and D. Li**, "Joint Source-Channel Noise Adding With Adaptive Denoising for Diffusion-Based Semantic Communications," in IEEE Internet of Things Journal, Jul. 2025, doi: 10.1109/JIOT.2025.3589398.
 * **C. Liang**, et al., "Selection-Based Image Generation for Semantic Communication Systems," in IEEE Communications Letters, Jan. 2024, doi: 10.1109/LCOMM.2023.3339534.
+
+
 Education
 ------
 * **2024 - present**
