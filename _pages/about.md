@@ -31,6 +31,8 @@ Education
 * **2022 - 2024**
   Master of of science in applied mathematics and data science in Faculty of Innovation Engineering, Macau University of Science and Technology
 
+  Supervisor: [Prof. Li Dong](https://sites.google.com/view/eedongli)
+
 * **2017 - 2021**
   Bachelor of engineering in Hefei University of Technology
 
