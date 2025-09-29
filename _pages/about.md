@@ -14,6 +14,7 @@ About me
 ======
 I am Liang Chengyang, a Ph.D. candidate in Faculty of Innovation Engineering at the Macau University of Science and Technology (MUST). I received the M.S. degree from MUST, Macau, in 2024. My current research interests include wireless AI, semantic communication, and generative models. My supervisor is Prof. Li Dong.
 
+
 Publications
 ======
 * **C. Liang and D. Li**, "Joint Source-Channel Noise Adding With Adaptive Denoising for Diffusion-Based Semantic Communications," in IEEE Internet of Things Journal, Jul. 2025, doi: 10.1109/JIOT.2025.3589398.
