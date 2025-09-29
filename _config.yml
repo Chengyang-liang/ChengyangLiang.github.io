@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate @ FIE, MUST"
   location         : "Macau"
-  employer         : "Macau University of Science and Technology"
+  #employer         : "MUST"
   uri              : # URL
   email            : "3240006992@student.must.edu.mo" 
 
